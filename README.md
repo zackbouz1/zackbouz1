@@ -1,4 +1,7 @@
 ### Hi there 👋
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 <!--
 **zackbouz1/zackbouz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
